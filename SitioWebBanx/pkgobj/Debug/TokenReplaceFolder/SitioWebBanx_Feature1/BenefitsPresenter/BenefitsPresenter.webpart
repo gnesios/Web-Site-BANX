@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SitioWebBanx.BenefitsPresenter.BenefitsPresenter, SitioWebBanx, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2b5f734a645e0c50" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Presentador Beneficios</property>
+        <property name="Description" type="string">Presentador de beneficios ofrecidos.</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

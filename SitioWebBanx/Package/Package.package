@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a7e5e57c-ef93-42f9-992c-fc27a413b174" solutionId="a7e5e57c-ef93-42f9-992c-fc27a413b174" resetWebServer="false" sharePointProductVersion="15.0" name="SitioWebBanx" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="bf42f7d4-ae5a-4a25-97fa-30dc435b3b05" />
+  </features>
+</package>

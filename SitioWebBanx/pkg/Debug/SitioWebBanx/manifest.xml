@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a7e5e57c-ef93-42f9-992c-fc27a413b174" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SitioWebBanx.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SitioWebBanx, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2b5f734a645e0c50" Namespace="SitioWebBanx.ToolsPresenter" TypeName="*" />
+        <SafeControl Assembly="SitioWebBanx, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2b5f734a645e0c50" Namespace="SitioWebBanx.BenefitsPresenter" TypeName="*" />
+        <SafeControl Assembly="SitioWebBanx, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2b5f734a645e0c50" Namespace="SitioWebBanx.RankingPresenter" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SitioWebBanx_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

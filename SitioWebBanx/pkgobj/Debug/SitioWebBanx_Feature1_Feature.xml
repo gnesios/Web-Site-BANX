@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Elementos web  presentadores de cotenidos y otros controles personalizados para el sitio BANX." Id="4437bcf3-46d1-4ccc-a356-4b6c45c0ddc1" Scope="Site" Title="Controles Personalizados BANX">
+  <ElementManifests>
+    <ElementManifest Location="ToolsPresenter\Elements.xml" />
+    <ElementFile Location="ToolsPresenter\ToolsPresenter.webpart" />
+    <ElementManifest Location="BenefitsPresenter\Elements.xml" />
+    <ElementFile Location="BenefitsPresenter\BenefitsPresenter.webpart" />
+    <ElementManifest Location="RankingPresenter\Elements.xml" />
+    <ElementFile Location="RankingPresenter\RankingPresenter.webpart" />
+  </ElementManifests>
+</Feature>
